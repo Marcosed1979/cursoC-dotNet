@@ -1,0 +1,13 @@
+E:\Projetos\CsharpDotNet\Primeiro\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.exe
+E:\Projetos\CsharpDotNet\Primeiro\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.deps.json
+E:\Projetos\CsharpDotNet\Primeiro\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.json
+E:\Projetos\CsharpDotNet\Primeiro\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.dev.json
+E:\Projetos\CsharpDotNet\Primeiro\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.dll
+E:\Projetos\CsharpDotNet\Primeiro\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.pdb
+E:\Projetos\CsharpDotNet\Primeiro\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\CsharpDotNet\Primeiro\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfoInputs.cache
+E:\Projetos\CsharpDotNet\Primeiro\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfo.cs
+E:\Projetos\CsharpDotNet\Primeiro\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csproj.CoreCompileInputs.cache
+E:\Projetos\CsharpDotNet\Primeiro\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.dll
+E:\Projetos\CsharpDotNet\Primeiro\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.pdb
+E:\Projetos\CsharpDotNet\Primeiro\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.genruntimeconfig.cache
